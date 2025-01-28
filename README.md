@@ -29,7 +29,7 @@
 `Лабораторная №1 "Подсчёт нагрузок на пальцы в различных раскладках"`
 `Лабораторная №3 "Подсчёт штрафов на пальцы в раскладках Вызов и Йцукен"`
 
-![](https://psv4.userapi.com/s/v1/d/5PT6q8k_8gSFoNQJyAq63zCiq5c7vBmmC_RWXL6xf4dtiJW6GCYqn4IsYbKBlRAa4T0SYV1-5i2Z4ZKIpzIx0qQo7aL-iCAnXhf-jHx3V72vEfB8YnRylQ/lab1-3.png)
+![](https://sun9-78.userapi.com/impg/T0tqHHNfiU2kNOe06kzDYClqss6w2DGMLnliXQ/vSKhGEM74_E.jpg?size=1800x1200&quality=95&sign=2c50a69487cd598a1586fab4c313b977&type=album)
 
 `Лабораторная №4 "Подсчёт диграмм, нажатых удобным перебором в различных раскладках"`
 `Лабораторная №5 "Подсчёт диграмм и триграмм, нажатых удобным перебором в раскладках Вызов и Йцукен"`
